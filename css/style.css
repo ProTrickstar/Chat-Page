@@ -1,0 +1,50 @@
+#messaage{
+    display: block;
+    margin: auto;
+    border-width: 3px;
+    width: 80%;
+    font-family: 'Baloo 2', cursive;
+    font-weight: bold;
+    margin-left: 20px;
+    height: 5.5vh
+}
+
+body{
+    background: url(../bg.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+#messages{
+    font-family: 'Baloo 2', cursive;
+    font-weight: bold;
+    color: white;
+    font-size: 5vh;
+}
+
+#submit{
+    font-family: 'Baloo 2', cursive;
+    font-weight: bold;
+    border-width: 3px;
+    margin-top: -32px;
+    margin-left: 1100px;
+    width: 8%;
+    height: 5vh;
+    cursor: pointer;
+}
+
+button{
+    display: flex;
+    font-family: 'Baloo 2', cursive;
+    font-weight: bold;
+    position: absolute;
+    left: 91%;
+    top: 1.7%;
+    width: 8%;
+    border-width: 3px;
+    height: 5vh;
+    cursor: pointer;
+}
+@media only screen and (max-width: 1247px){
+
+}
